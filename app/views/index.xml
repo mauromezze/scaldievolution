@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label">Internet of Things Relay</Label>
+		<TextField class="input" id="input" value="192.168.2.5">
+		<Button class="on" onClick="doClick">On</Button>
+		<Button class="off" onClick="doClick1">Off</Button>
+		
+		<ImageView id="Logo" image="/SmartUp_2.jpg"/>
+		
+	</Window>
+</Alloy>

@@ -1,0 +1,28 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	color: "#000",
+	top: "60dp"
+} 
+
+".input": {
+	top: "100dp",
+	borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+	width:"250dp",
+	height:"60dp"
+	
+} 
+
+".on": {
+	top: "200dp"
+	
+} 
+
+".off": {
+	top: "300dp"
+} 
+
+"#Logo": {
+	top: "400dp"
+}
